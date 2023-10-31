@@ -1,3 +1,9 @@
+.contenedor {
+    max-width: 600px; /* Establece el ancho máximo */
+    margin: 0 auto; /* Centra el div horizontalmente en la página */
+    padding: 20px; /* Añade relleno para el contenido interno */
+    border: 1px solid #ccc; /* Agrega un borde para visualización */
+}
 
 
 .slider-frame{
