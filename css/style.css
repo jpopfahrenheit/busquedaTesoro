@@ -2,11 +2,9 @@
 
 .slider-frame{
     width: 500px;
-    height: auto;
-    margin: 10px auto 0;
-    overflow: hidden;
-
-    
+    height: 500px;
+    margin: 10px auto;
+    overflow: hidden;    
 }
 
 .slider-frame ul{
